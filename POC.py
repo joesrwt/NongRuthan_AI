@@ -79,7 +79,7 @@ st.markdown("""
 st.markdown(f"""
 <div class="chat-container chat-user">
     <div class="chat-bubble chat-bubble-user">
-        มี SMS ส่งมาบอกว่าผมทำผิดกฎหมายจากธนาคาร แล้วให้กดลิงก์ด้วย แบบนี้ธนาคารจะส่งลิงก์มาจริงไหมครับ
+        มีSMS จากธนาคารส่งมาบอกว่าผมทำผิดกฎหมาย ให้กดลิงก์ยืนยันตัวตนด้วย ธนาคารมีนโยบายให้ส่งSMS แบบนี้จริงหรอ
     </div>
     <img src="https://cdn-icons-png.flaticon.com/512/747/747545.png" class="chat-icon" />
 </div>
