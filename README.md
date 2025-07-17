@@ -9,3 +9,7 @@ A RAG-based bot to provide fact-based recommendations on suspicious online scam 
 <img src="https://raw.githubusercontent.com/joesrwt/NongRuthan_AI/main/Image 17-7-2568 BE at 23.39 (1).jpeg" style="max-width:80%; border-radius:8px;">
 
 
+
+
+More for information 
+Contact : huang.sorawit@gmail.com
